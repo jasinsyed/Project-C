@@ -1,11 +1,11 @@
-🖥️ Project-C
+#🖥️ Project-C
 A collection of C and C++ programs built for learning and practice — covering everything from basic I/O to intermediate problem-solving.
 
-📌 About
+#📌 About
 This repository contains beginner to intermediate projects in C and C++, designed to strengthen core programming concepts through hands-on practice.
 🧠 Concepts Covered
 
-Input / Output operations
+#Input / Output operations
 Conditional statements (if, else, switch)
 Loops (for, while, do-while)
 Functions and recursion
@@ -16,10 +16,10 @@ File handling
 Basic problem-solving and algorithms
 
 
-🛠️ Technologies Used
+#🛠️ Technologies Used
 ToolPurposeC LanguageCore programming projectsC++ LanguageOOP and advanced projectsGCC / G++CompilationVS Code / Dev-C++IDE / Editor
 
-🚀 How to Run
+#🚀 How to Run
 1. Clone the repository
 bashgit clone https://github.com/jasinsyed/Project-C.git
 cd Project-C
@@ -33,7 +33,7 @@ bashg++ filename.cpp -o output
 On Windows, replace ./output with output.exe
 
 
-📁 Project Structure
+#📁 Project Structure
 Project-C/
 │
 ├── C-Projects/
